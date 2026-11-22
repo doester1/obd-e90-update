@@ -1,5 +1,5 @@
 {
-  "wersja": "0.6.0 beta",
-  "plik": "https://raw.githubusercontent.com/doester1/obd-e90-update/main/obd_e90_v6_0.6.0.bin",
-  "opis": "Nowy wyglad: obrotomierz, kafelki"
+  "wersja": "0.6.1 beta",
+  "plik": "https://raw.githubusercontent.com/doester1/obd-e90-update/main/obd_e90_v6_0.6.1.bin",
+  "opis": "Rozpoznawanie auta, kalibracja"
 }
